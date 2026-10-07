@@ -302,8 +302,6 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
-
-    transform: translateX(-35px);
 }
 
 .hero__avatar {
@@ -346,7 +344,7 @@ button {
     display: block;
 
     object-fit: cover;
-    object-position: center 18%;
+    object-position: 42% 18%;
     border-radius: inherit;
 }
 
