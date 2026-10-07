@@ -231,10 +231,6 @@
         width: min(240px, 82%);
     }
 
-    .hero__avatar span {
-        letter-spacing: -5px;
-    }
-
     .about {
         padding: 80px 0;
     }
