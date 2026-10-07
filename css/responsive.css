@@ -70,6 +70,7 @@
 
     .hero__visual {
         order: -1;
+        transform: none;
     }
 
     .hero__avatar {
@@ -193,6 +194,16 @@
 
     .logo {
         font-size: 1.15rem;
+    }
+
+    .featured-project__media {
+        min-height: auto;
+        padding: 14px;
+    }
+
+    .featured-project__image {
+        height: auto;
+        max-height: none;
     }
 
     .hero__content {
