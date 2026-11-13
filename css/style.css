@@ -1615,12 +1615,6 @@ a.contact-card:hover .contact-card__arrow {
     text-align: center;
 }
 
-.button--disabled {
-    cursor: not-allowed;
-    opacity: 0.55;
-    pointer-events: none;
-}
-
 .project-link--disabled {
     color: var(--text-secondary);
     font-size: 0.85rem;
